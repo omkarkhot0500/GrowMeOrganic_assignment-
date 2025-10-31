@@ -1,0 +1,19 @@
+.p-paginator .p-paginator-pages .p-paginator-page {
+  background: #1e3a8a;
+  color: #fff;
+  border: none;
+  margin: 0 2px;
+}
+.p-paginator .p-paginator-pages .p-paginator-page.p-highlight {
+  background: #2563eb;
+  color: #fff;
+  border: none;
+}
+.p-paginator .p-paginator-icon {
+  color: #fff;
+}
+.p-paginator .p-paginator-next, .p-paginator .p-paginator-prev, .p-paginator .p-paginator-first, .p-paginator .p-paginator-last {
+  background: #1e3a8a;
+  color: #fff;
+  border: none;
+}
